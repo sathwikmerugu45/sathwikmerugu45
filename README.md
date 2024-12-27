@@ -4,13 +4,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a keen interest in [your areas of interest, e.g., web development, machine learning, etc.]. I enjoy building innovative solutions and constantly learning new technologies.
+I'm a passionate software developer with a keen interest in Full Stack development. I enjoy building innovative solutions and constantly learning new technologies.
 
-- 🔭 I’m currently working on [your current project or job].
-- 🌱 I’m currently learning [technologies or skills you are learning].
-- 💬 Ask me about [topics you are knowledgeable about].
-- 📫 How to reach me: [your email or other contact information].
-- ⚡ Fun fact: [a fun fact about you].
+- 🔭 I’m currently working on Shaastra Website.
+- 🌱 I’m currently learning DSA.
+- 💬 Ask me about React.js,Node,Javascript.
+- 📫 How to reach me: sathwikmerugu69@gmail.com.
+- ⚡ Fun fact: A Deep Tester.
 
 ## 🛠️ Languages and Tools
 
