@@ -9,18 +9,22 @@ I'm a passionate software developer with a keen interest in Full Stack developme
 - 🔭 I’m currently working on Shaastra Website.
 - 🌱 I’m currently learning DSA.
 - ⚡ A Full Stack Developer.
-- 💬 Ask me about React.js,Node,Javascript.
+- 💬 Ask me about React.js, Node, JavaScript, TypeScript, and Express.
 - 📫 How to reach me: sathwikmerugu69@gmail.com.
+- 🎨 I design on **Figma**.
 - ⚡ Fun fact: A Deep Tester.
 
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 
 ## 📈 GitHub Stats
 
@@ -32,9 +36,9 @@ I'm a passionate software developer with a keen interest in Full Stack developme
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwik45/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/sathwikmerugu45)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sathwikmerugu69@gmail.com)
 
 ## 📚 Latest Blog Posts
 
