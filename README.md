@@ -6,8 +6,7 @@
 
 I'm a passionate software developer with a keen interest in Full Stack development. I enjoy building innovative solutions and constantly learning new technologies.
 
-- 🔭 I’m currently working on Shaastra Website.
-- 🌱 I’m currently learning DSA.
+- 🔭 I’m currently working ar Clavistara Consultants.
 - ⚡ A Full Stack Developer.
 - 💬 Ask me about React.js, Node, JavaScript, TypeScript, and Express.
 - 📫 How to reach me: sathwikmerugu69@gmail.com.
